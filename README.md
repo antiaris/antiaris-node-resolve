@@ -1,5 +1,8 @@
+
+ Deprecated, see [node-resolve](https://github.com/yanni4night/node-resolve)
+
 # antiaris-node-resolve
-[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)[![NPM version][npm-image]][npm-url] [![Downloads][downloads-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency status][david-dm-image]][david-dm-url] [![Dev Dependency status][david-dm-dev-image]][david-dm-dev-url]
 
 解析文件依赖，找到真正的 CommonJS 指向。这在复用被发布到 NPM 上的资源时非常有用。
 
